@@ -1,6 +1,6 @@
 certifi==2023.11.17
 charset-normalizer==3.3.2
-idna==3.6
+idna==3.7
 requests==2.31.0
 ruamel.yaml==0.18.5
 ruamel.yaml.clib==0.2.8
